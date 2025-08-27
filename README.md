@@ -28,6 +28,11 @@ This project demonstrates:
 **Quota**: 1 million calls/month  
 **Endpoint**: `/current.json`
 
+## 🚀 Screen Shots
+1. <img width="1138" height="669" alt="image" src="https://github.com/user-attachments/assets/a5dd658f-60f0-4cca-99b3-d92908ca75d5" />
+2. <img width="1088" height="766" alt="image" src="https://github.com/user-attachments/assets/f9433111-ab78-494b-945e-a4521a3b37b9" />
+3. <img width="1104" height="930" alt="image" src="https://github.com/user-attachments/assets/35e27fa6-d23e-4f71-81c6-76b64ee5571c" />
+
 ## 🚀 Quick Start
 
 1. Open `index.html` in a web browser
